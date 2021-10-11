@@ -1,0 +1,312 @@
+{
+  "f8:9e:28:7f:f6:ea": {
+    "latitude": "47.648699327302",
+    "longitude": "-122.036734923895",
+    "nodename": "87-2-222",
+    "channels": [
+      11,
+      153
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:ee": {
+    "latitude": "47.6487038446412",
+    "longitude": "-122.036852941092",
+    "nodename": "87-2-221",
+    "channels": [
+      1,
+      44
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:98": {
+    "latitude": "47.6485674208239",
+    "longitude": "-122.036848917778",
+    "nodename": "87-1-126A",
+    "channels": [
+      1,
+      112
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:d1:2a:d8": {
+    "latitude": "47.6487553423085",
+    "longitude": "-122.037241861399",
+    "nodename": "87-1-117B",
+    "channels": [
+      6,
+      48
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:7f": {
+    "latitude": "47.6485439607302",
+    "longitude": "-122.037492692471",
+    "nodename": "87-2-201",
+    "channels": [
+      1,
+      140
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:fb:b3": {
+    "latitude": "47.6485999457399",
+    "longitude": "-122.037409499462",
+    "nodename": "87-1-100",
+    "channels": [
+      6,
+      60
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:7d": {
+    "latitude": "47.6487074585123",
+    "longitude": "-122.037708565767",
+    "nodename": "87-2-215",
+    "channels": [
+      1,
+      48
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:c6": {
+    "latitude": "47.6487011342377",
+    "longitude": "-122.036995098169",
+    "nodename": "87-2-220",
+    "channels": [
+      6,
+      40
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:b3": {
+    "latitude": "47.6485683242941",
+    "longitude": "-122.036970958288",
+    "nodename": "87-2-227",
+    "channels": [
+      6,
+      153
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:94": {
+    "latitude": "47.6486080769657",
+    "longitude": "-122.036615565594",
+    "nodename": "87-1-125",
+    "channels": [
+      1,
+      104
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:d4": {
+    "latitude": "47.6485701312344",
+    "longitude": "-122.036983028229",
+    "nodename": "87-1-127",
+    "channels": [
+      11,
+      36
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:95": {
+    "latitude": "47.6487074585123",
+    "longitude": "-122.036873057659",
+    "nodename": "87-1-121",
+    "channels": [
+      1,
+      44
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:7e": {
+    "latitude": "47.6486939366302",
+    "longitude": "-122.037334442139",
+    "nodename": "87-1-132",
+    "channels": [
+      6,
+      36
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:c4": {
+    "latitude": "47.6487345625377",
+    "longitude": "-122.037506058987",
+    "nodename": "87-1-116",
+    "channels": [
+      11,
+      60
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:8e": {
+    "latitude": "47.6485647104133",
+    "longitude": "-122.037642851647",
+    "nodename": "87-1-102",
+    "channels": [
+      1,
+      100
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:a8": {
+    "latitude": "47.6485653127176",
+    "longitude": "-122.037774726814",
+    "nodename": "87-1-105",
+    "channels": [
+      11,
+      56
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:8d": {
+    "latitude": "47.6485692277642",
+    "longitude": "-122.03790570813",
+    "nodename": "87-1-104E",
+    "channels": [
+      11,
+      104
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:ca": {
+    "latitude": "47.6487173966566",
+    "longitude": "-122.037999585446",
+    "nodename": "87-1-111",
+    "channels": [
+      1,
+      44
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:8b": {
+    "latitude": "47.6486008492095",
+    "longitude": "-122.038136378105",
+    "nodename": "87-1-107",
+    "channels": [
+      11,
+      112
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:83": {
+    "latitude": "47.6487002307699",
+    "longitude": "-122.038157835777",
+    "nodename": "87-1-110",
+    "channels": [
+      6,
+      40
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:7b": {
+    "latitude": "47.6487119758509",
+    "longitude": "-122.037853405054",
+    "nodename": "87-2-214",
+    "channels": [
+      1,
+      40
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:cc": {
+    "latitude": "47.6485701312344",
+    "longitude": "-122.038199410017",
+    "nodename": "87-2-211",
+    "channels": [
+      1,
+      44
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:97": {
+    "latitude": "47.648699327302",
+    "longitude": "-122.038116261538",
+    "nodename": "87-2-212",
+    "channels": [
+      11,
+      153
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:6d": {
+    "latitude": "47.6485674208239",
+    "longitude": "-122.037748798903",
+    "nodename": "87-2-208",
+    "channels": [
+      6,
+      153
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:ef:a7": {
+    "latitude": "47.6485710347045",
+    "longitude": "-122.036506936129",
+    "nodename": "87-2-224",
+    "channels": [
+      6,
+      40
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:bb": {
+    "latitude": "47.6487020377056",
+    "longitude": "-122.036571309145",
+    "nodename": "87-2-223",
+    "channels": [
+      1,
+      48
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:d1:2a:d6": {
+    "latitude": "47.6486731267543",
+    "longitude": "-122.037408158358",
+    "nodename": "87-1-117A",
+    "channels": [
+      1,
+      104
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:81": {
+    "latitude": "47.6487029411734",
+    "longitude": "-122.037726000126",
+    "nodename": "87-1-113",
+    "channels": [
+      1,
+      40
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:79": {
+    "latitude": "47.6487038446412",
+    "longitude": "-122.037971422251",
+    "nodename": "87-2-213",
+    "channels": [
+      11,
+      149
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:c8": {
+    "latitude": "47.6487056515768",
+    "longitude": "-122.037873521622",
+    "nodename": "87-1-112",
+    "channels": [
+      1,
+      149
+    ],
+    "max_bitrate": "867"
+  },
+  "f8:9e:28:7f:f6:86": {
+    "latitude": "47.6485638069431",
+    "longitude": "-122.036529734905",
+    "nodename": "87-1-124",
+    "channels": [
+      11,
+      36
+    ],
+    "max_bitrate": "867"
+  }
+}
