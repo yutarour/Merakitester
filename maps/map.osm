@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.5 (920099 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="47.6484800" minlon="-122.0383000" maxlat="47.6488200" maxlon="-122.0364500"/>
+ <node id="2584450112" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6485484" lon="-122.0382914"/>
+ <node id="2584450113" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487319" lon="-122.0382914"/>
+ <node id="2584450114" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487360" lon="-122.0382263"/>
+ <node id="2584450115" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487661" lon="-122.0382222"/>
+ <node id="2584450116" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487675" lon="-122.0380047"/>
+ <node id="2584450117" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487798" lon="-122.0380007"/>
+ <node id="2584450118" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487839" lon="-122.0375088"/>
+ <node id="2584450119" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6488168" lon="-122.0375088"/>
+ <node id="2584450120" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6488168" lon="-122.0374010"/>
+ <node id="2584450121" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6488058" lon="-122.0373990"/>
+ <node id="2584450122" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6488072" lon="-122.0371754"/>
+ <node id="2584450123" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487853" lon="-122.0371774"/>
+ <node id="2584450124" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:24Z" user="Spudboy" uid="1847346" lat="47.6487880" lon="-122.0366855"/>
+ <node id="2584450125" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6487716" lon="-122.0366875"/>
+ <node id="2584450126" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6487757" lon="-122.0364700"/>
+ <node id="2584450127" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485525" lon="-122.0364660"/>
+ <node id="2584450128" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485525" lon="-122.0365798"/>
+ <node id="2584450129" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485716" lon="-122.0365778"/>
+ <node id="2584450130" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485675" lon="-122.0368461"/>
+ <node id="2584450131" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485511" lon="-122.0368461"/>
+ <node id="2584450132" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485552" lon="-122.0373990"/>
+ <node id="2584450133" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6484963" lon="-122.0374010"/>
+ <node id="2584450134" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6484949" lon="-122.0376876"/>
+ <node id="2584450135" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485470" lon="-122.0376836"/>
+ <node id="2584450136" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485484" lon="-122.0378401"/>
+ <node id="2584450137" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485100" lon="-122.0378360"/>
+ <node id="2584450138" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485086" lon="-122.0381389"/>
+ <node id="2584450139" visible="true" version="1" changeset="19508112" timestamp="2013-12-18T01:08:25Z" user="Spudboy" uid="1847346" lat="47.6485442" lon="-122.0381409"/>
+ <way id="252387979" visible="true" version="2" changeset="22765627" timestamp="2014-06-06T00:43:30Z" user="Extramiler" uid="1168086">
+  <nd ref="2584450112"/>
+  <nd ref="2584450113"/>
+  <nd ref="2584450114"/>
+  <nd ref="2584450115"/>
+  <nd ref="2584450116"/>
+  <nd ref="2584450117"/>
+  <nd ref="2584450118"/>
+  <nd ref="2584450119"/>
+  <nd ref="2584450120"/>
+  <nd ref="2584450121"/>
+  <nd ref="2584450122"/>
+  <nd ref="2584450123"/>
+  <nd ref="2584450124"/>
+  <nd ref="2584450125"/>
+  <nd ref="2584450126"/>
+  <nd ref="2584450127"/>
+  <nd ref="2584450128"/>
+  <nd ref="2584450129"/>
+  <nd ref="2584450130"/>
+  <nd ref="2584450131"/>
+  <nd ref="2584450132"/>
+  <nd ref="2584450133"/>
+  <nd ref="2584450134"/>
+  <nd ref="2584450135"/>
+  <nd ref="2584450136"/>
+  <nd ref="2584450137"/>
+  <nd ref="2584450138"/>
+  <nd ref="2584450139"/>
+  <nd ref="2584450112"/>
+  <tag k="addr:city" v="Redmond"/>
+  <tag k="addr:housenumber" v="4301"/>
+  <tag k="addr:postcode" v="98053"/>
+  <tag k="addr:street" v="228th Avenue Northeast"/>
+  <tag k="building" v="school"/>
+ </way>
+</osm>
